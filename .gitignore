@@ -6,7 +6,6 @@ screenshots/
 tests/selenium/chromedriver.log
 *.crx
 *.pem
-*.zip
 #*
 .#*
 *.pyc
